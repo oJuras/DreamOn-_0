@@ -1,1 +1,1 @@
-type = "rat";
+rato_validado = false

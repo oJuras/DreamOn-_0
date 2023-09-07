@@ -1,2 +1,2 @@
-audio_play_sound(burocracia,0,true)
+audio_play_sound(menu,0,true)
 

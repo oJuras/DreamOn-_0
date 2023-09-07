@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Spr_clow",
-    "path": "sprites/Spr_clow/Spr_clow.yy",
+    "name": "Spr_clown",
+    "path": "sprites/Spr_clown/Spr_clown.yy",
   },
   "spriteMaskId": null,
   "visible": true,

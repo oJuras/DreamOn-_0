@@ -24,16 +24,8 @@ function dragAndDrop(slot){
 			instance_create_depth(Obj_player.x, Obj_player.y, -1, Obj_rat)
 		break;
 		
-		case Spr_rato:
-			instance_create_depth(Obj_player.x, Obj_player.y, -1, Obj_rato)
-		break;
-		
-		case Spr_waterBottle:
-			instance_create_depth(Obj_player.x, Obj_player.y, -1, Obj_waterBottle)
-		break;
-		
-		case Spr_gato:
-			instance_create_depth(Obj_player.x, Obj_player.y, -1, Obj_gato)
+		case Spr_cat:
+			instance_create_depth(Obj_player.x, Obj_player.y, -1, Obj_cat)
 		break;
 		
 		case Spr_bird:

@@ -1,16 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Obj_rat",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,},
-  ],
+  "name": "Obj_wardrobe",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "items",
-    "path": "folders/Objects/items.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -29,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Spr_rat",
-    "path": "sprites/Spr_rat/Spr_rat.yy",
+    "name": "Spr_wardrobe",
+    "path": "sprites/Spr_wardrobe/Spr_wardrobe.yy",
   },
   "spriteMaskId": null,
   "visible": true,

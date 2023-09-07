@@ -1,2 +1,2 @@
-audio_stop_sound(burocracia)
+audio_stop_sound(menu)
 

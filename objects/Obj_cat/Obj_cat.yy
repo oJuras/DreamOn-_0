@@ -1,19 +1,16 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Obj_NPC_2",
+  "name": "Obj_cat",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":11,"eventType":6,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":10,"eventType":6,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "items",
+    "path": "folders/Objects/items.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -32,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Spr_NPC_2",
-    "path": "sprites/Spr_NPC_2/Spr_NPC_2.yy",
+    "name": "Spr_cat",
+    "path": "sprites/Spr_cat/Spr_cat.yy",
   },
   "spriteMaskId": null,
   "visible": true,
