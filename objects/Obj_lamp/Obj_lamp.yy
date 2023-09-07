@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "interactiveItems",
+    "path": "folders/Objects/interactiveItems.yy",
   },
   "parentObjectId": null,
   "persistent": false,

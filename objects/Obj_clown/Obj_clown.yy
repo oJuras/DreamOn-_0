@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Obj_clow",
+  "name": "Obj_clown",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "items",
+    "path": "folders/Objects/items.yy",
   },
   "parentObjectId": null,
   "persistent": false,
