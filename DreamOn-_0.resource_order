@@ -1,0 +1,14 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"eita_preula","order":2,"path":"sounds/eita_preula/eita_preula.yy",},
+    {"name":"Obj_msc_mundo","order":3,"path":"objects/Obj_msc_mundo/Obj_msc_mundo.yy",},
+    {"name":"Obj_winCon","order":4,"path":"objects/Obj_winCon/Obj_winCon.yy",},
+    {"name":"burocracia","order":1,"path":"sounds/burocracia/burocracia.yy",},
+    {"name":"Sprite40","order":1,"path":"sprites/Sprite40/Sprite40.yy",},
+    {"name":"Obj_msc_menu","order":2,"path":"objects/Obj_msc_menu/Obj_msc_menu.yy",},
+    {"name":"Obj_seguraPeao","order":1,"path":"objects/Obj_seguraPeao/Obj_seguraPeao.yy",},
+    {"name":"Obj_textBoxEnding","order":5,"path":"objects/Obj_textBoxEnding/Obj_textBoxEnding.yy",},
+    {"name":"Sprite41","order":2,"path":"sprites/Sprite41/Sprite41.yy",},
+  ],
+}

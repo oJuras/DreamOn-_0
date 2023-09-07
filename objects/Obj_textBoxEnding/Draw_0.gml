@@ -1,0 +1,1 @@
+draw_text(global.PosX+100,global.PosY,"You Win!");

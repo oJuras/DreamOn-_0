@@ -1,0 +1,10 @@
+global.Medo = 0
+global.Nome= 0
+global.Idade = 0
+global.Gosta = 0
+global.Odeia = 0
+global.PosX = 0
+global.PosY = 0
+global.status = 0
+global.npc = 0
+global.meta = 0

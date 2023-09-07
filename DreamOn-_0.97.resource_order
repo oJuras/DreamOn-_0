@@ -1,0 +1,12 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"Spr_clow","order":2,"path":"sprites/Spr_clow/Spr_clow.yy",},
+    {"name":"Obj_comfirma","order":2,"path":"objects/Obj_comfirma/Obj_comfirma.yy",},
+    {"name":"Obj_vaso","order":3,"path":"objects/Obj_vaso/Obj_vaso.yy",},
+    {"name":"Obj_sair","order":1,"path":"objects/Obj_sair/Obj_sair.yy",},
+    {"name":"Spr_vaso","order":1,"path":"sprites/Spr_vaso/Spr_vaso.yy",},
+    {"name":"Obj_clow","order":4,"path":"objects/Obj_clow/Obj_clow.yy",},
+    {"name":"Obj_msc_sonho","order":5,"path":"objects/Obj_msc_sonho/Obj_msc_sonho.yy",},
+  ],
+}
